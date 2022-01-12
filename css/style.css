@@ -2,8 +2,12 @@
     background-color: #f8f9fa;
 }
 
-i{
+#icon{
     font-size: 45px !important;
     color: rgb(0, 153, 255) !important;
 
+}
+
+#react-view{
+    background-color: #151b3b;
 }
