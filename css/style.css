@@ -11,3 +11,7 @@
 #react-view{
     background-color: #151b3b;
 }
+
+a{
+    text-decoration: none;
+}
