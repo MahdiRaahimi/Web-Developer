@@ -1,5 +1,5 @@
-#features{
-    background-color: #f8f9fa;
+#background-gray{
+    background-color: #f5f5f5;
 }
 
 #icon{
@@ -14,4 +14,9 @@
 
 a{
     text-decoration: none;
+}
+
+#icon-contact{
+    font-size: 45px !important;
+    color: rgb(0, 153, 255) !important;
 }
