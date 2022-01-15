@@ -8,7 +8,7 @@
 
 }
 
-#react-view{
+#background-dark-blue{
     background-color: #151b3b;
 }
 
@@ -19,4 +19,8 @@ a{
 #icon-contact{
     font-size: 45px !important;
     color: rgb(0, 153, 255) !important;
+}
+
+#color-link{
+    color: #cacbce;
 }
