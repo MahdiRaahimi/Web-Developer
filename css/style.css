@@ -29,5 +29,6 @@ a{
     width: 54px;
     height: 54px;
    bottom: 10px;
-    right: 10px;
+    right: 10px; 
+    left: auto;
 }
